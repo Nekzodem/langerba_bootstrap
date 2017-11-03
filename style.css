@@ -1,0 +1,101 @@
+*{
+    font-family:"merriweather sans";
+    margin-left: auto;
+    margin-right: auto;
+}
+.fond{
+    background-image: url(images/background01.png);
+    height:707px;
+    background-size: cover;
+    background-position: bottom;
+}
+.navbar{
+    background-color:#003c5a;
+    height:155px;
+    padding-left:50px;
+}
+.open{
+    color:white;
+    text-align:center;
+    padding-top:185px;
+    padding-left:60px;
+}
+.learn{
+    color:white;
+    opacity:0.5;
+}
+h1{
+    color:white;
+}
+h2{
+    color:black;
+    font-size: 35px;
+}
+h3{
+    color: #555555;     
+}
+h4{
+    font-size:22px;
+}
+h5{
+    font-size:35px;
+}
+p{
+    font-size:18px;
+    opacity:0.7;
+}
+.btn{
+    background-color:#fc8f44;
+    padding-left:25px;
+    padding-right:25px;
+    color:white;
+}
+.languages{
+    background-color:#edf4f8;
+    padding-top:120px;
+    color: #555555; 
+}
+.reasons{
+    padding-top:130px;
+    padding-bottom:125px;
+    color: #555555;
+    text-align:center;
+}
+.book{
+    background-color:#edf4f8;
+    padding-top:125px;
+    padding-bottom:135px;
+    color: #555555; 
+}
+.mail{
+    color:white;
+    background-color:#003c5a;
+    padding-top:135px;
+    padding-bottom:120px;
+    font-size:18px;
+}
+input{
+    width:500px;
+    height:37px;
+    border-radius:10 10 10 10px;
+}
+.citation{
+    color:white;
+    background-color:#e76e33;
+    text-align:center;
+    padding-top:125px;
+}
+footer{
+    background-color:#272727;
+    color: #555555; 
+    padding-top:40px;
+    padding-bottom:30px;
+}
+.ul,li{
+    display:inline-block;
+    padding-right:30px;
+    color:white;
+}
+.conditions{
+    font-size:12px;
+}
